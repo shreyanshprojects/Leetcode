@@ -1,4 +1,5 @@
 public class duplicateElements
 {
-    //absh
+    int ab;
+    //abshxjd
 }
